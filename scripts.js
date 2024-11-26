@@ -1,9 +1,9 @@
 function showRetailers() {
   const retailers = [
-    { name: "T&T Supermarket", location: "Toronto, ON" },
-    { name: "H-Mart", location: "Vancouver, BC" },
-    { name: "J-Town", location: "Markham, ON" },
-    { name: "Foody World", location: "Calgary, AB" },
+    { name: "T&T Supermarket", location: "Waterloo, ON" },
+    { name: "Central Fresh Market", location: "Kitchener, ON" },
+    { name: "Food Basics", location: "Waterloo, ON" },
+    { name: "Freshco", location: "Waterloo, ON" },
   ];
 
   const retailerList = document.getElementById("retailer-list");
