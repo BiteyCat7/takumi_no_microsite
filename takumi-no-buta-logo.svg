@@ -1,0 +1,29 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle representing Japanese minimalism -->
+  <circle cx="200" cy="150" r="120" fill="#f3ebe3"/>
+  
+  <!-- Decorative elements - traditional Japanese pattern -->
+  <path d="M120 90 Q200 60 280 90" stroke="#8b4513" fill="none" stroke-width="2"/>
+  <path d="M120 210 Q200 240 280 210" stroke="#8b4513" fill="none" stroke-width="2"/>
+  
+  <!-- Main text container -->
+  <g transform="translate(200 150)">
+    <!-- Japanese characters with artistic brush stroke style -->
+    <text x="-60" y="-20" font-family="serif" font-size="48" fill="#2c1810" font-weight="bold">匠</text>
+    <text x="-13" y="-20" font-family="serif" font-size="34" fill="#2c1810">の</text>
+    <text x="20" y="-20" font-family="serif" font-size="48" fill="#2c1810" font-weight="bold">豚</text>
+    
+    <!-- Romaji subtitle -->
+    <text x="-78" y="35" font-family="serif" font-size="25" fill="#8b4513" letter-spacing="2">たくみのぶた</text>
+  </g>
+  
+  <!-- Decorative circles representing Japanese simplicity -->
+  <circle cx="130" cy="150" r="4" fill="#8b4513"/>
+  <circle cx="270" cy="150" r="4" fill="#8b4513"/>
+  
+  <!-- Elegant frame -->
+  <!-- <rect x="80" y="50" width="240" height="200" stroke="#8b4513" fill="none" stroke-width="0.8" stroke-opacity="0.4" rx="5"/> -->
+  
+  <!-- Inner frame -->
+  <!-- <rect x="85" y="55" width="230" height="190" stroke="#8b4513" fill="none" stroke-width="0.5" stroke-opacity="0.3" rx="4"/> -->
+</svg>

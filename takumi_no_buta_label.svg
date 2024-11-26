@@ -1,0 +1,43 @@
+<svg viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main label background -->
+  <rect x="0" y="0" width="300" height="400" fill="#1a1a1a" rx="10"/>
+  
+  <!-- Top section with logo - now with dark background -->
+  <rect x="0" y="0" width="300" height="160" fill="#2d2d2d" rx="10"/>
+  <g transform="translate(150 80)">
+    <g transform="scale(0.5)">
+      <!-- Background circle -->
+      <circle cx="0" cy="0" r="120" fill="#f3ebe3"/>
+      
+      <!-- Decorative curves -->
+      <path d="M-80 -60 Q0 -90 80 -60" stroke="#8b4513" fill="none" stroke-width="2"/>
+      <path d="M-80 60 Q0 90 80 60" stroke="#8b4513" fill="none" stroke-width="2"/>
+      
+      <!-- Main text -->
+      <g>
+        <text x="-60" y="-20" font-family="serif" font-size="48" fill="#2c1810" font-weight="bold">匠</text>
+        <text x="-13" y="-20" font-family="serif" font-size="34" fill="#2c1810">の</text>
+        <text x="20" y="-20" font-family="serif" font-size="48" fill="#2c1810" font-weight="bold">豚</text>
+        <text x="-78" y="35" font-family="serif" font-size="25" fill="#8b4513" letter-spacing="2">たくみのぶた</text>
+      </g>
+      
+      <!-- Decorative dots -->
+      <circle cx="-70" cy="0" r="4" fill="#8b4513"/>
+      <circle cx="70" cy="0" r="4" fill="#8b4513"/>
+    </g>
+  </g>
+  
+  <!-- Middle section with enhanced marketing text -->
+  <rect x="0" y="160" width="300" height="140" fill="#8b4513"/>
+  <text x="150" y="200" font-family="serif" font-size="24" fill="white" text-anchor="middle" font-weight="bold">MASTER CRAFTSMAN</text>
+  <text x="150" y="235" font-family="serif" font-size="24" fill="white" text-anchor="middle" font-weight="bold">PORK</text>
+  <text x="150" y="270" font-family="serif" font-size="14" fill="#f3ebe3" text-anchor="middle" font-style="italic">ARTISANAL JAPANESE HERITAGE</text>
+  
+  <!-- Bottom section with grading information -->
+  <g transform="translate(150 320)">
+    <text x="0" y="0" font-family="serif" font-size="16" fill="#c0a080" text-anchor="middle" font-weight="bold">PREMIUM GRADE A5</text>
+    <text x="0" y="25" font-family="serif" font-size="12" fill="#8b7355" text-anchor="middle">MARBLING SCORE: 8-10</text>
+    <text x="0" y="45" font-family="serif" font-size="12" fill="#8b7355" text-anchor="middle">CERTIFIED BY JAPAN MEAT GRADING ASSOCIATION</text>
+    <text x="0" y="65" font-family="serif" font-size="10" fill="#8b7355" text-anchor="middle">STRICTLY CONTROLLED QUALITY STANDARDS</text>
+  </g>
+</svg>

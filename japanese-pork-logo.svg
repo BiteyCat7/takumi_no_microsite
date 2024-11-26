@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Background Circle -->
+  <circle cx="200" cy="200" r="180" fill="#1A1A1A"/>
+  
+  <!-- Seigaiha Pattern (Simplified) -->
+  <path d="M50 350 C 200 350, 350 350, 350 350" stroke="#C4A962" fill="none" stroke-width="1"/>
+  <path d="M75 360 C 200 360, 325 360, 325 360" stroke="#C4A962" fill="none" stroke-width="1"/>
+  <path d="M100 370 C 200 370, 300 370, 300 370" stroke="#C4A962" fill="none" stroke-width="1"/>
+  
+  <!-- Kamon (Stylized Cherry Blossom) -->
+  <g transform="translate(200 140) scale(0.8)">
+    <circle cx="0" cy="0" r="20" fill="#C4A962"/>
+    <path d="M0 -40 Q 10 -20 0 0 Q -10 -20 0 -40Z" fill="#C4A962" transform="rotate(0)"/>
+    <path d="M0 -40 Q 10 -20 0 0 Q -10 -20 0 -40Z" fill="#C4A962" transform="rotate(72)"/>
+    <path d="M0 -40 Q 10 -20 0 0 Q -10 -20 0 -40Z" fill="#C4A962" transform="rotate(144)"/>
+    <path d="M0 -40 Q 10 -20 0 0 Q -10 -20 0 -40Z" fill="#C4A962" transform="rotate(216)"/>
+    <path d="M0 -40 Q 10 -20 0 0 Q -10 -20 0 -40Z" fill="#C4A962" transform="rotate(288)"/>
+  </g>
+  
+  <!-- Japanese Text -->
+  <text x="200" y="210" font-family="serif" font-size="48" fill="#C4A962" text-anchor="middle">構成豚</text>
+  
+  <!-- Brand Name -->
+  <text x="200" y="260" font-family="serif" font-size="32" fill="#FFFFFF" text-anchor="middle">KŌSEI BUTA</text>
+  
+  <!-- Subtitle -->
+  <text x="200" y="290" font-family="serif" font-size="14" fill="#C4A962" text-anchor="middle">PREMIUM JAPANESE-CRAFTED PORK</text>
+  
+  <!-- Decorative Elements -->
+  <line x1="120" y1="275" x2="280" y2="275" stroke="#C4A962" stroke-width="0.5"/>
+</svg>
