@@ -31,7 +31,7 @@
   <rect x="0" y="160" width="300" height="140" fill="#8b4513"/>
   <text x="150" y="200" font-family="serif" font-size="24" fill="white" text-anchor="middle" font-weight="bold">MASTER CRAFTSMAN</text>
   <text x="150" y="235" font-family="serif" font-size="24" fill="white" text-anchor="middle" font-weight="bold">PORK</text>
-  <text x="150" y="270" font-family="serif" font-size="14" fill="#f3ebe3" text-anchor="middle" font-style="italic">ARTISANAL JAPANESE HERITAGE</text>
+  <text x="150" y="270" font-family="serif" font-size="14" fill="#f3ebe3" text-anchor="middle" font-style="italic">FROM CONESTOGA MEATS</text>
   
   <!-- Bottom section with grading information -->
   <g transform="translate(150 320)">
